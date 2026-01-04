@@ -137,8 +137,9 @@ I’m open to:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
   <img src="https://www.vectorlogo.zone/logos/jinja/jinja-icon.svg" width="40" title="Jinja2"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" title="Raspberry Pi"/>
 
-  <!-- Cloud & Infra -->
+  <!-- Cloud & DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" title="Azure"/>
@@ -148,9 +149,29 @@ I’m open to:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" title="Ansible"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" title="Vagrant"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppet/puppet-original.svg" width="40" title="Puppet"/>
+  <img src="https://www.vectorlogo.zone/logos/qemu/qemu-icon.svg" width="40" title="QEMU"/>
+  <img src="https://www.vectorlogo.zone/logos/linux-kvm/linux-kvm-icon.svg" width="40" title="KVM"/>
+
+  <!-- Security & Network -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="40" title="Kali Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" width="40" title="Wazuh"/>
+  <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="40" title="Snort"/>
+  <img src="https://www.vectorlogo.zone/logos/suricata-ids/suricata-ids-icon.svg" width="40" title="Suricata"/>
+  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" title="Nmap"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" title="Wireshark"/>
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" title="Cisco (CCNA)"/>
+  <img src="https://www.vectorlogo.zone/logos/mikrotik/mikrotik-icon.svg" width="40" title="Mikrotik"/>
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" width="40" title="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/master/static/nuclei-logo.png" width="40" title="Nuclei"/>
+  <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/master/static/httpx-logo.png" width="40" title="HTTPX"/>
+  <img src="https://raw.githubusercontent.com/sullo/nikto/master/program/docs/nikto_logo_small.png" width="40" title="Nikto"/>
 
   <!-- Web & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" title="Apache"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jekyll/jekyll-original.svg" width="40" title="Jekyll"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
