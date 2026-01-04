@@ -118,7 +118,7 @@ I’m open to:
 
 ## 🔗 Connect
 
-- 💻 GitHub: You’re already here
+- 💻 GitHub: [@yonrasgg](https://github.com/yonrasgg)
 - 🐦 Twitter / X: https://twitter.com/yonrasgg
 - 🌐 RagnarSec: https://ragnarsec.com
 
