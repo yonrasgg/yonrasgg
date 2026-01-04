@@ -153,22 +153,22 @@ I’m open to:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/>
   <img src="https://cdn.simpleicons.org/puppet" width="40" title="Puppet"/>
   <img src="https://cdn.simpleicons.org/qemu" width="40" title="QEMU"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kvm-logo.svg/100px-Kvm-logo.svg.png" width="40" title="KVM"/>
+  <img src="https://www.linux-kvm.org/images/1/15/Kvm_logo_small.png" width="40" title="KVM"/>
 
   <!-- Security & Network -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="40" title="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/wazuh/00B0F0" width="40" title="Wazuh"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Snort_logo.svg/100px-Snort_logo.svg.png" width="40" title="Snort"/>
-  <img src="https://cdn.simpleicons.org/suricata/E3A65E" width="40" title="Suricata"/>
-  <img src="https://raw.githubusercontent.com/nmap/nmap/master/docs/nmap-logo-64.png" width="40" title="Nmap"/>
+  <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/src/wazuh_modules/wazuh_logo.png" width="40" title="Wazuh"/>
+  <img src="https://snort.org/assets/snort-logo-small.png" width="40" title="Snort"/>
+  <img src="https://suricata.io/wp-content/uploads/2020/09/suricata-logo-vertical.png" width="40" title="Suricata"/>
+  <img src="https://nmap.org/images/nmap-logo-64.png" width="40" title="Nmap"/>
   <img src="https://cdn.simpleicons.org/wireshark" width="40" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/cisco" width="40" title="Cisco (CCNA)"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MikroTik_Logo.svg/200px-MikroTik_Logo.svg.png" width="40" title="Mikrotik"/>
+  <img src="https://mikrotik.com/img/mt_logo.png" width="40" title="Mikrotik"/>
   <img src="https://cdn.simpleicons.org/metasploit" width="40" title="Metasploit"/>
   <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.png" width="40" title="Nuclei"/>
   <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/main/static/httpx-logo.png" width="40" title="HTTPX"/>
-  <img src="https://raw.githubusercontent.com/sullo/nikto/master/program/docs/nikto_logo.png" width="40" title="Nikto"/>
-  <img src="https://www.kismetwireless.net/images/kismet-icon.png" width="40" title="Kismet"/>
+  <img src="https://cirt.net/nikto/nikto-logo.png" width="40" title="Nikto"/>
+  <img src="https://www.kismetwireless.net/kismet-new-small.png" width="40" title="Kismet"/>
 
   <!-- Web & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
